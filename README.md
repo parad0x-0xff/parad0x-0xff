@@ -17,15 +17,23 @@
   }
 ```
 --- 
-- 🔭 I’m currently working on: **Mobile Fuzzing Tools**
-- 🌱 I’m currently learning: **Mobile Security**
-- 👯 I’m looking to collaborate on: **Open Source Security Projects**
-- 💬 Ask me about **Offensive security**, **One Piece** and **Break Dance** 
+- 👨🏻‍💻 I’m currently working on:
+  - **Mobile Fuzzing Tools**
+- 🌱 I’m currently learning:
+  - **Mobile Security**
+  - **Java**
+- 📚 I’m looking to collaborate on:
+  - **Open Source Security Projects**
+- 💬 Ask me about:
+  - **Offensive security**
+  - **One Piece**
+  - **Break Dance** 
 ---
 
 ### 📫 How to reach me
 [<img width="30" src="https://github.com/user-attachments/assets/08781bf6-f6c2-4846-9526-76f599406739"/>][LinkedIn]
-
+[<img width="30" src="https://github.com/user-attachments/assets/0e7dab5d-438a-4b8c-8aaa-d0fbf0e2c112"/>][Twitter]
+[<img width="30" src="https://github.com/user-attachments/assets/83e17eed-874e-4ba5-88e3-47f32b980cc8"/>][Telegram]
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -36,5 +44,6 @@
   <img src="https://profile-counter.glitch.me/parad0x-0xff/count.svg" />
 </h3>
 
-[twitter]: https://twitter.com/Rishabh07147212
+[Twitter]: https://x.com/parad0x_0xff
 [LinkedIn]: https://www.linkedin.com/in/allan-trindad-7296091bb/
+[Telegram]: https://t.me/parad0x_0xff
