@@ -41,7 +41,7 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/parad0x-0xff/count.svg" />
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=parad0x-0xff&label=Visitor%20nº&color=06fe20&style=flat" alt="parad0x-0xff" /> </p>
 </h3>
 
 [Twitter]: https://x.com/parad0x_0xff
